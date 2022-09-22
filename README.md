@@ -4,11 +4,11 @@
 
 
 
-#### Written by TMRSWRR 
+#### Modded by Trhacknon 
 #### Version 1.0.0
 
 
-Instagram: [TMRSWRR](https://www.instagram.com/)
+Instagram: [trhacknon](https://www.instagram.com/)
 
 
 
