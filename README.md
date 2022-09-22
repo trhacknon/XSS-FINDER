@@ -8,7 +8,7 @@
 #### Version 1.0.0
 
 
-Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
+Instagram: [TMRSWRR](https://www.instagram.com/)
 
 
 
@@ -25,7 +25,7 @@ This tool works with geckodriver, search url for xss vuln and when get an alert 
 
 
 ```bash
-git clone https://github.com/capture0x/XSS-FINDER/
+git clone https://github.com/trhacknon/XSS-FINDER/
 cd XSS-FINDER
 bash aa.sh
 pip3 install -r requirements.txt
@@ -41,6 +41,6 @@ Firefox geckodriver for can't kill an exited process  ==> https://github.com/moz
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/mailExtractor/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/trhacknon/mailExtractor/issues) here.
 
 **Copyright 2020**
